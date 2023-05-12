@@ -1,0 +1,501 @@
+,ID,Q,A,PATH
+0,synpic61010,what abnormality is seen in the image?,"transitional cell carcinoma, bladder",/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic61010.jpg
+1,synpic29662,what is the primary abnormality in this image?,acute appendicitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic29662.jpg
+2,synpic28805,what is abnormal in the mri?,"hemangioma, soft-tissue",/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic28805.jpg
+3,synpic27965,what is the primary abnormality in this image?,renal cell carcinoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic27965.jpg
+4,synpic27041,what abnormality is seen in the image?,renal arteriovenous malformation,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic27041.jpg
+5,synpic26647,what is most alarming about this ct scan?,pericardial cyst,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic26647.jpg
+6,synpic26386,what abnormality is seen in the image?,acute appendicitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic26386.jpg
+7,synpic25096,what is abnormal in the ct scan?,"neurofibromatosis-1, nf1, nf-1",/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic25096.jpg
+8,synpic25068,what abnormality is seen in the image?,adrenal adenoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic25068.jpg
+9,synpic21960,what is the primary abnormality in this image?,cavernous hemangioma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic21960.jpg
+10,synpic21726,what is abnormal in the ct scan?,liver hemangioma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic21726.jpg
+11,synpic17709,what abnormality is seen in the image?,pheochromocytoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic17709.jpg
+12,synpic11567,what is the primary abnormality in this image?,wilms tumor,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic11567.jpg
+13,synpic100300,what is abnormal in the ultrasound?,renal disease in systemic lupus erythematosus (sle) versus c3 glomerulonephritis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic100300.jpg
+14,synpic58396,what abnormality is seen in the image?,traumatic carotid-cavernous fistula,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic58396.jpg
+15,synpic58301,what is the primary abnormality in this image?,synovial cyst,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic58301.jpg
+16,synpic58006,what is abnormal in the ct scan?,bilateral perched facets c5 c6 with spinal cord injury,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic58006.jpg
+17,synpic57448,what is the primary abnormality in this image?,"carcinoma, small cell",/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic57448.jpg
+18,synpic57444,what is abnormal in the mri?,"carcinoma, small cell",/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic57444.jpg
+19,synpic55353,what is most alarming about this mri?,spinal cord astrocytoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic55353.jpg
+20,synpic54587,what is the primary abnormality in this image?,enchondroma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic54587.jpg
+21,synpic26526,what is abnormal in the x-ray?,left aortic arch with aberrant right subclavian artery,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic26526.jpg
+22,synpic24725,what is abnormal in the ct scan?,mesenteric adenitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic24725.jpg
+23,synpic23282,what abnormality is seen in the image?,pneumothorax,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic23282.jpg
+24,synpic22915,what is abnormal in the ct scan?,pheochromocytoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic22915.jpg
+25,synpic22686,what abnormality is seen in the image?,renal cell carcinoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic22686.jpg
+26,synpic22222,what is the primary abnormality in this image?,angiomyolipoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic22222.jpg
+27,synpic22008,what is the primary abnormality in this image?,renal cell carcinoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic22008.jpg
+28,synpic20405,what abnormality is seen in the image?,lung adenocarcinoma and cns metastasis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic20405.jpg
+29,synpic20099,what is the primary abnormality in this image?,radial head fracture,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic20099.jpg
+30,synpic18436,what is the primary abnormality in this image?,acute appendicitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic18436.jpg
+31,synpic17713,what is abnormal in the ct scan?,pheochromocytoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic17713.jpg
+32,synpic100299,what is most alarming about this ultrasound?,renal disease in systemic lupus erythematosus (sle) versus c3 glomerulonephritis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic100299.jpg
+33,synpic54229,what abnormality is seen in the image?,cervical spine fracture (unstable) with cord injury,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic54229.jpg
+34,synpic49345,what is abnormal in the ct scan?,mesenteric adenitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic49345.jpg
+35,synpic49074,what abnormality is seen in the image?,metastatic disease from colonic carcinoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic49074.jpg
+36,synpic48812,what is abnormal in the x-ray?,sarcoidosis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic48812.jpg
+37,synpic47974,what is most alarming about this ct scan?,colon cancer,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic47974.jpg
+38,synpic47248,what abnormality is seen in the image?,"pleomorphic  xanthoastrocytoma, pxa",/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic47248.jpg
+39,synpic47184,what is the primary abnormality in this image?,multiple myeloma presenting originally as a solitary lesion (plasmacytoma),/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic47184.jpg
+40,synpic45684,what is most alarming about this x-ray?,tension pneumothorax,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic45684.jpg
+41,synpic45117,what is most alarming about this ct scan?,ruptured appendicitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic45117.jpg
+42,synpic43692,what is the primary abnormality in this image?,clear cell sarcoma of the kidney,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic43692.jpg
+43,synpic41832,what is the primary abnormality in this image?,schwannoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic41832.jpg
+44,synpic41675,what is the primary abnormality in this image?,pneumocystis jiroveci (p. carinii) pneumonia,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic41675.jpg
+45,synpic41602,what is most alarming about this ct scan?,intussusception,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic41602.jpg
+46,synpic41526,what is abnormal in the ct scan?,epiploic appendagitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic41526.jpg
+47,synpic41241,what is abnormal in the ct scan?,bilateral locked facets,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic41241.jpg
+48,synpic41229,what is abnormal in the ct scan?,adrenal adenoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic41229.jpg
+49,synpic40560,what is most alarming about this mri?,ganglioneuroma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic40560.jpg
+50,synpic39970,what is most alarming about this mri?,"large cell lymphoma, of the b-cell phenotype (cd20 positive).",/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic39970.jpg
+51,synpic39963,what is abnormal in the mri?,"large cell lymphoma, of the b-cell phenotype (cd20 positive).",/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic39963.jpg
+52,synpic39939,what is abnormal in the mri?,multiple myeloma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic39939.jpg
+53,synpic39810,what is most alarming about this ct scan?,small cell lung carcinoma (sclc),/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic39810.jpg
+54,synpic39809,what is abnormal in the ct scan?,small cell lung carcinoma (sclc),/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic39809.jpg
+55,synpic27110,what is the primary abnormality in this image?,pneumothorax,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic27110.jpg
+56,synpic47245,what is the primary abnormality in this image?,"pleomorphic  xanthoastrocytoma, pxa",/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic47245.jpg
+57,synpic21558,what is the primary abnormality in this image?,traumatic transient lateral patellar dislocation.,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic21558.jpg
+58,synpic58062,what is the primary abnormality in this image?,caudal regression syndrome,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic58062.jpg
+59,synpic18072,what is the primary abnormality in this image?,sarcoid,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic18072.jpg
+60,synpic33205,what is most alarming about this ct scan?,"aortic dissection, aortic tear",/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic33205.jpg
+61,synpic52434,what is abnormal in the x-ray?,radial head fracture,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic52434.jpg
+62,synpic19096,what is most alarming about this ct scan?,double aortic arch,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic19096.jpg
+63,synpic56644,what is abnormal in the mri?,neuroblastoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic56644.jpg
+64,synpic30366,what abnormality is seen in the image?,diastematomyelia,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic30366.jpg
+65,synpic23555,what is most alarming about this ct scan?,renal infarct,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic23555.jpg
+66,synpic24726,what is most alarming about this ct scan?,mesenteric adenitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic24726.jpg
+67,synpic56298,what is most alarming about this x-ray?,adenocarcinoma of the lung,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic56298.jpg
+68,synpic48353,what abnormality is seen in the image?,congenital cystic adenomatoid malformation,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic48353.jpg
+69,synpic28628,what abnormality is seen in the image?,hepatocellular carcinoma and bone metastasis.,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic28628.jpg
+70,synpic13273,what is abnormal in the ct scan?,necrotizing fasciitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic13273.jpg
+71,synpic30901,what abnormality is seen in the image?,cholelithiasis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic30901.jpg
+72,synpic59711,what is abnormal in the ct scan?,lymphangioma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic59711.jpg
+73,synpic55611,what is most alarming about this mri?,rheumatoid arthritis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic55611.jpg
+74,synpic20111,what is the primary abnormality in this image?,"aortic dissection, aortic tear",/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic20111.jpg
+75,synpic45383,what is the primary abnormality in this image?,sarcoidosis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic45383.jpg
+76,synpic30367,what abnormality is seen in the image?,diastematomyelia,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic30367.jpg
+77,synpic17521,what is most alarming about this ct scan?,sarcoidosis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic17521.jpg
+78,synpic18199,what is abnormal in the x-ray?,chondrocalcinosis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic18199.jpg
+79,synpic34166,what is most alarming about this ultrasound?,hypertrophic pyloric stenosis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic34166.jpg
+80,synpic47996,what is most alarming about this mri?,adenocarcinoma of the lung,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic47996.jpg
+81,synpic26839,what is the primary abnormality in this image?,kohler's disease,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic26839.jpg
+82,synpic54418,what is most alarming about this angiogram?,spinal dural arteriovenous fistula,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic54418.jpg
+83,synpic24749,what is the primary abnormality in this image?,bronchiectasis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic24749.jpg
+84,synpic43042,what is abnormal in the mri?,ventriculus terminalis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic43042.jpg
+85,synpic29212,what abnormality is seen in the image?,partial anomalous pulmonary venous return,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic29212.jpg
+86,synpic51171,what abnormality is seen in the image?,renal cell carcinoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic51171.jpg
+87,synpic42807,what is most alarming about this x-ray?,pulmonary sarcoidosis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic42807.jpg
+88,synpic7946,what is the primary abnormality in this image?,pulmonary embolism,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic7946.jpg
+89,synpic29816,what is abnormal in the mri?,osteochondroma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic29816.jpg
+90,synpic14405,what abnormality is seen in the image?,pancoast tumor,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic14405.jpg
+91,synpic27096,what abnormality is seen in the image?,meniscal tear,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic27096.jpg
+92,synpic48362,what is most alarming about this ct scan?,crossed fused ectopia,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic48362.jpg
+93,synpic33918,what abnormality is seen in the image?,adenomyosis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic33918.jpg
+94,synpic46179,what is most alarming about this ct scan?,traumatic aortic injury,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic46179.jpg
+95,synpic58400,what is most alarming about this angiogram?,traumatic carotid-cavernous fistula,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic58400.jpg
+96,synpic40605,what is most alarming about this ultrasound?,parathyroid adenoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic40605.jpg
+97,synpic8181,what is abnormal in the gastrointestinal image?,diverticulitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic8181.jpg
+98,synpic31404,what is most alarming about this mri?,vertebral osteomyelitis and diskitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic31404.jpg
+99,synpic31720,what is the primary abnormality in this image?,azygous lobe,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic31720.jpg
+100,synpic16012,what is the primary abnormality in this image?,infiltrating ductal carcinoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic16012.jpg
+101,synpic26879,what abnormality is seen in the image?,adrenal myelolipoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic26879.jpg
+102,synpic29097,what is abnormal in the mammograph?,infiltrating ductal carcinoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic29097.jpg
+103,synpic25170,what is abnormal in the mri?,diastematomyelia,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic25170.jpg
+104,synpic21469,what is most alarming about this ct scan?,pulmonary embolism,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic21469.jpg
+105,synpic24081,what is the primary abnormality in this image?,duplicated renal collecting system,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic24081.jpg
+106,synpic49077,what is most alarming about this mri?,metastatic disease from colonic carcinoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic49077.jpg
+107,synpic38381,what is the primary abnormality in this image?,"orbit,  hemangioma",/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic38381.jpg
+108,synpic34814,what is abnormal in the ultrasound?,parathyroid adenoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic34814.jpg
+109,synpic29825,what abnormality is seen in the image?,ectopic pregnancy,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic29825.jpg
+110,synpic27470,what is the primary abnormality in this image?,syringomyelia,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic27470.jpg
+111,synpic34006,what is the primary abnormality in this image?,pulmonary thromboembolism,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic34006.jpg
+112,synpic51412,what is abnormal in the gastrointestinal image?,spontaneous pneumomediastinum,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic51412.jpg
+113,synpic35962,what is most alarming about this gastrointestinal image?,killian-jamieson diverticulum,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic35962.jpg
+114,synpic28411,what abnormality is seen in the image?,hydronephrosis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic28411.jpg
+115,synpic31519,what is most alarming about this ct scan?,iatrogenic pneumoperitoneum,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic31519.jpg
+116,synpic40743,what is most alarming about this ct scan?,crohn disease,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic40743.jpg
+117,synpic50611,what is the primary abnormality in this image?,ewing's sarcoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic50611.jpg
+118,synpic26906,what is abnormal in the mri?,simple bone cyst,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic26906.jpg
+119,synpic54448,what abnormality is seen in the image?,"aneurysm, cerebral",/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic54448.jpg
+120,synpic26006,what is most alarming about this gastrointestinal image?,achalasia,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic26006.jpg
+121,synpic30821,what is abnormal in the ct scan?,pericardial cyst,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic30821.jpg
+122,synpic15883,what is most alarming about this gastrointestinal image?,left aortic arch with aberrant right subclavian artery,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic15883.jpg
+123,synpic19910,what is abnormal in the ct scan?,pulmonary arteriovenous malformation,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic19910.jpg
+124,synpic37390,what abnormality is seen in the image?,classic bosniak class iii complex renal cyst,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic37390.jpg
+125,synpic23989,what is the primary abnormality in this image?,pneumothorax,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic23989.jpg
+126,synpic100298,what is abnormal in the ultrasound?,renal disease in systemic lupus erythematosus (sle) versus c3 glomerulonephritis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic100298.jpg
+127,synpic58082,what abnormality is seen in the image?,vertebral osteomyelitis and diskitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic58082.jpg
+128,synpic32936,what abnormality is seen in the image?,colon cancer,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic32936.jpg
+129,synpic36300,what abnormality is seen in the image?,acute pyelonephritis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic36300.jpg
+130,synpic24256,what is abnormal in the ct scan?,renal infarct,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic24256.jpg
+131,synpic28621,what abnormality is seen in the image?,hepatocellular carcinoma and bone metastasis.,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic28621.jpg
+132,synpic18300,what is abnormal in the ct scan?,mycotic aneurysm,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic18300.jpg
+133,synpic57865,what abnormality is seen in the image?,"dural  fistula, avf",/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic57865.jpg
+134,synpic21888,what is most alarming about this ultrasound?,parathyroid adenoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic21888.jpg
+135,synpic39425,what abnormality is seen in the image?,partial anomalous pulmonary venous return,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic39425.jpg
+136,synpic32606,what is the primary abnormality in this image?,duplicated renal collecting system,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic32606.jpg
+137,synpic34117,what is abnormal in the ct scan?,angiomyolipoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic34117.jpg
+138,synpic28811,what is most alarming about this ultrasound?,dermoid cyst,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic28811.jpg
+139,synpic27496,what abnormality is seen in the image?,renal oncocytoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic27496.jpg
+140,synpic35756,what is the primary abnormality in this image?,spondylodiskitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic35756.jpg
+141,synpic43960,what is most alarming about this mri?,lipoma arborescens,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic43960.jpg
+142,synpic54496,what is abnormal in the ct scan?,"intramedullary (intradural-intramedullary), spinal lesions",/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic54496.jpg
+143,synpic41612,what is most alarming about this ct scan?,pneumocystis jiroveci (p. carinii) pneumonia,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic41612.jpg
+144,synpic29157,what is the primary abnormality in this image?,osteomyelitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic29157.jpg
+145,synpic49192,what abnormality is seen in the image?,medullary nephrocalcinosis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic49192.jpg
+146,synpic43803,what is most alarming about this ct scan?,lipomatous hypertrophy of the interatrial septum,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic43803.jpg
+147,synpic19656,what abnormality is seen in the image?,tethered spinal cord with terminal spinal lipoma.,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic19656.jpg
+148,synpic26540,what abnormality is seen in the image?,small bowel lymphoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic26540.jpg
+149,synpic19238,what is abnormal in the mammograph?,inflammatory breast carcinoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic19238.jpg
+150,synpic54645,what is abnormal in the angiogram?,"common carotid occlusion, collateral reconstitution of ipsilateral ica from vertebral artery muscular branches",/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic54645.jpg
+151,synpic31488,what is the primary abnormality in this image?,acute appendicitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic31488.jpg
+152,synpic26175,what is abnormal in the ct scan?,crossed fused ectopia,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic26175.jpg
+153,synpic58672,what is abnormal in the ct scan?,stage i pulmonary sarcoidosis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic58672.jpg
+154,synpic54045,what abnormality is seen in the image?,leptomeningeal sarcoid,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic54045.jpg
+155,synpic42220,what is most alarming about this mri?,intraosseous lipoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic42220.jpg
+156,synpic25881,what is abnormal in the gastrointestinal image?,hiatal hernia,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic25881.jpg
+157,synpic26132,what is most alarming about this ultrasound?,testicular torsion,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic26132.jpg
+158,synpic29663,what is the primary abnormality in this image?,acute appendicitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic29663.jpg
+159,synpic20018,what is abnormal in the ultrasound?,fibromatosis coli,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic20018.jpg
+160,synpic53859,what is abnormal in the mri?,hemophilia,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic53859.jpg
+161,synpic28329,what is most alarming about this ct scan?,pulmonary sequestration,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic28329.jpg
+162,synpic41308,what abnormality is seen in the image?,spontaneous pneumomediastinum,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic41308.jpg
+163,synpic27459,what is the primary abnormality in this image?,enchondroma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic27459.jpg
+164,synpic34628,what is the primary abnormality in this image?,cystic fibrosis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic34628.jpg
+165,synpic44356,what abnormality is seen in the image?,neuroblastoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic44356.jpg
+166,synpic28209,what abnormality is seen in the image?,renal cell carcinoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic28209.jpg
+167,synpic37365,what is the primary abnormality in this image?,pulmonary embolism,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic37365.jpg
+168,synpic55767,what is most alarming about this mri?,enlarged subarachnoid space,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic55767.jpg
+169,synpic18578,what abnormality is seen in the image?,epididymitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic18578.jpg
+170,synpic36140,what abnormality is seen in the image?,kyphoplasty cement leak,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic36140.jpg
+171,synpic21425,what is the primary abnormality in this image?,infiltrating ductal carcinoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic21425.jpg
+172,synpic33490,what is the primary abnormality in this image?,diverticulitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic33490.jpg
+173,synpic28629,what is most alarming about this ct scan?,hepatocellular carcinoma and bone metastasis.,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic28629.jpg
+174,synpic17048,what is the primary abnormality in this image?,adenomyomatosis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic17048.jpg
+175,synpic54055,what abnormality is seen in the image?,leptomeningeal sarcoid,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic54055.jpg
+176,synpic56883,what is most alarming about this ct scan?,neuroblastoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic56883.jpg
+177,synpic39292,what is most alarming about this ct scan?,hepatic hemangioma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic39292.jpg
+178,synpic49342,what is the primary abnormality in this image?,mesenteric adenitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic49342.jpg
+179,synpic26133,what is abnormal in the ultrasound?,testicular torsion,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic26133.jpg
+180,synpic38378,what is most alarming about this mri?,"orbit,  hemangioma",/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic38378.jpg
+181,synpic23896,what is the primary abnormality in this image?,"transmesenteric hernia (internal hernia), small bowel volvulus",/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic23896.jpg
+182,synpic55748,what abnormality is seen in the image?,enlarged subarachnoid space,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic55748.jpg
+183,synpic15174,what is the primary abnormality in this image?,pulmonary embolism,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic15174.jpg
+184,synpic25034,what is most alarming about this ct scan?,pulmonary embolism,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic25034.jpg
+185,synpic40870,what is abnormal in the mri?,ependymoma cervical spinal cord,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic40870.jpg
+186,synpic23066,what is the primary abnormality in this image?,colon cancer,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic23066.jpg
+187,synpic28897,what is the primary abnormality in this image?,enchondroma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic28897.jpg
+188,synpic31463,what abnormality is seen in the image?,abdominal aortic aneurysm,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic31463.jpg
+189,synpic57309,what abnormality is seen in the image?,osteogenesis imperfecta,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic57309.jpg
+190,synpic49079,what is most alarming about this mri?,"diffuse idiopathic skeletal hyperostosis (dish), cervical and thoracic spine fractures",/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic49079.jpg
+191,synpic20035,what is most alarming about this ct scan?,crohn's disease,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic20035.jpg
+192,synpic25105,what is the primary abnormality in this image?,cystic fibrosis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic25105.jpg
+193,synpic28697,what abnormality is seen in the image?,pancreatic mucinous cystic neoplasm,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic28697.jpg
+194,synpic25126,what is most alarming about this ct scan?,liver hemangioma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic25126.jpg
+195,synpic56641,what is most alarming about this mri?,neuroblastoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic56641.jpg
+196,synpic23663,what is the primary abnormality in this image?,adenomyosis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic23663.jpg
+197,synpic31683,what abnormality is seen in the image?,liver hemangioma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic31683.jpg
+198,synpic54064,what is the primary abnormality in this image?,c-spine fracture,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic54064.jpg
+199,synpic42795,what abnormality is seen in the image?,spinal cord astrocytoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic42795.jpg
+200,synpic25829,what abnormality is seen in the image?,fibrous dysplasia,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic25829.jpg
+201,synpic32173,what is the primary abnormality in this image?,amyand's hernia,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic32173.jpg
+202,synpic27481,what abnormality is seen in the image?,crohn's disease,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic27481.jpg
+203,synpic20392,what is the primary abnormality in this image?,lung adenocarcinoma and cns metastasis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic20392.jpg
+204,synpic54915,what is most alarming about this ct scan?,clear cell sarcoma of the kidney,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic54915.jpg
+205,synpic56636,what abnormality is seen in the image?,epidural spinal hematoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic56636.jpg
+206,synpic22998,what abnormality is seen in the image?,pneumomediastinum,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic22998.jpg
+207,synpic38533,what is most alarming about this ultrasound?,bicornuate uterus,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic38533.jpg
+208,synpic58063,what abnormality is seen in the image?,caudal regression syndrome,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic58063.jpg
+209,synpic17736,what is the primary abnormality in this image?,mature cystic teratoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic17736.jpg
+210,synpic56903,what is abnormal in the mri?,"spine, epidural abscess",/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic56903.jpg
+211,synpic30204,what is abnormal in the ct scan?,crohn's disease,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic30204.jpg
+212,synpic59275,what is most alarming about this ct scan?,incidental hepatic artery aneurysm,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic59275.jpg
+213,synpic58573,what is the primary abnormality in this image?,mycotic aneurysm,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic58573.jpg
+214,synpic45381,what is the primary abnormality in this image?,sarcoidosis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic45381.jpg
+215,synpic24728,what is abnormal in the ct scan?,mesenteric adenitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic24728.jpg
+216,synpic16939,what is abnormal in the ct scan?,coarctation of the aorta,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic16939.jpg
+217,synpic38706,what is the primary abnormality in this image?,ectopic pregnancy,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic38706.jpg
+218,synpic39433,what is most alarming about this ct scan?,partial anomalous pulmonary venous return,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic39433.jpg
+219,synpic25760,what abnormality is seen in the image?,appendicitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic25760.jpg
+220,synpic31655,what abnormality is seen in the image?,pneumopericardium,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic31655.jpg
+221,synpic51195,what abnormality is seen in the image?,cord infarct with secondary atrophy,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic51195.jpg
+222,synpic25173,what is most alarming about this x-ray?,supracondylar fracture,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic25173.jpg
+223,synpic21115,what is the primary abnormality in this image?,hypertrophic pyloric stenosis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic21115.jpg
+224,synpic53567,what is most alarming about this ct scan?,supra-renal inferior vena cava clot,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic53567.jpg
+225,synpic24080,what is most alarming about this ultrasound?,duplicated renal collecting system,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic24080.jpg
+226,synpic41237,what is abnormal in the ct scan?,bilateral locked facets,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic41237.jpg
+227,synpic31667,what is most alarming about this ct scan?,left aortic arch with aberrant right subclavian artery,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic31667.jpg
+228,synpic19526,what is most alarming about this ct scan?,histoplasmosis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic19526.jpg
+229,synpic33492,what is the primary abnormality in this image?,diverticulitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic33492.jpg
+230,synpic52872,what is abnormal in the ct scan?,autosomal dominant polycystic kidney disease,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic52872.jpg
+231,synpic46890,what is abnormal in the ct scan?,horseshoe kidney,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic46890.jpg
+232,synpic54302,what is abnormal in the mri?,schwannoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic54302.jpg
+233,synpic33851,what is abnormal in the mri?,acl injury,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic33851.jpg
+234,synpic40867,what abnormality is seen in the image?,ependymoma cervical spinal cord,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic40867.jpg
+235,synpic39968,what is most alarming about this mri?,"large cell lymphoma, of the b-cell phenotype (cd20 positive).",/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic39968.jpg
+236,synpic40563,what abnormality is seen in the image?,ganglioneuroma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic40563.jpg
+237,synpic40329,what abnormality is seen in the image?,medullary nephrocalcinosis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic40329.jpg
+238,synpic25411,what abnormality is seen in the image?,bicornuate uterus,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic25411.jpg
+239,synpic23128,what is most alarming about this gastrointestinal image?,hiatal hernia,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic23128.jpg
+240,synpic47186,what abnormality is seen in the image?,multiple myeloma presenting originally as a solitary lesion (plasmacytoma),/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic47186.jpg
+241,synpic48045,what abnormality is seen in the image?,"spine, spinal stenosis",/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic48045.jpg
+242,synpic34318,what is most alarming about this ct scan?,adenocarcinoma of the lung,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic34318.jpg
+243,synpic32646,what is the primary abnormality in this image?,comminuted fracture of medial femoral condyle. small joint effusion.,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic32646.jpg
+244,synpic40302,what is abnormal in the ct scan?,crohn's disease,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic40302.jpg
+245,synpic44123,what is most alarming about this ct scan?,osteochondroma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic44123.jpg
+246,synpic35738,what is abnormal in the mri?,leptomeningeal sarcoid,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic35738.jpg
+247,synpic18179,what is most alarming about this gastrointestinal image?,achalasia,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic18179.jpg
+248,synpic45644,what abnormality is seen in the image?,diffuse rhabdomyosarcoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic45644.jpg
+249,synpic46421,what is most alarming about this mri?,chloroma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic46421.jpg
+250,synpic17803,what abnormality is seen in the image?,osteoid osteoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic17803.jpg
+251,synpic43565,what is most alarming about this ct scan?,acute appendicitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic43565.jpg
+252,synpic49117,what is most alarming about this mri?,neuroblastoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic49117.jpg
+253,synpic46414,what is abnormal in the mri?,chloroma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic46414.jpg
+254,synpic29442,what is abnormal in the ct scan?,osteiitis condensans ilii,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic29442.jpg
+255,synpic25077,what is most alarming about this ct scan?,pulmonary embolism,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic25077.jpg
+256,synpic46683,what is the primary abnormality in this image?,testicular microlithiasis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic46683.jpg
+257,synpic17494,what is most alarming about this ultrasound?,testicular torsion,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic17494.jpg
+258,synpic51660,what is abnormal in the mri?,transverse myelitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic51660.jpg
+259,synpic37193,what abnormality is seen in the image?,"transitional cell carcinoma, bladder",/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic37193.jpg
+260,synpic38834,what is abnormal in the ct scan?,duplicated inferior vena cava,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic38834.jpg
+261,synpic31752,what is the primary abnormality in this image?,aortic pseudoaneurysm,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic31752.jpg
+262,synpic22980,what is most alarming about this ct scan?,ovarian dermoid (cystic teratoma),/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic22980.jpg
+263,synpic24701,what abnormality is seen in the image?,intramuscular hemangioma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic24701.jpg
+264,synpic36244,what abnormality is seen in the image?,double aortic arch,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic36244.jpg
+265,synpic16930,what is abnormal in the mri?,aortic dissection,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic16930.jpg
+266,synpic19573,what abnormality is seen in the image?,duplicated inferior vena cava,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic19573.jpg
+267,synpic43560,what abnormality is seen in the image?,acute appendicitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic43560.jpg
+268,synpic40524,what is most alarming about this ultrasound?,autosomal recessive polycystic kidney disease,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic40524.jpg
+269,synpic51662,what is the primary abnormality in this image?,transverse myelitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic51662.jpg
+270,synpic51150,what is most alarming about this ct scan?,hypoplastic cervical pedicle c3 on right,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic51150.jpg
+271,synpic48010,what is abnormal in the angiogram?,"aneurysm, cerebral",/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic48010.jpg
+272,synpic47424,what is most alarming about this ct scan?,lipomatous hypertrophy of the interatrial septum,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic47424.jpg
+273,synpic49119,what abnormality is seen in the image?,neuroblastoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic49119.jpg
+274,synpic56285,what is abnormal in the ct scan?,adenocarcinoma of the lung,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic56285.jpg
+275,synpic24919,what is most alarming about this ct scan?,aortic dissection,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic24919.jpg
+276,synpic32778,what is the primary abnormality in this image?,nephrolithiasis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic32778.jpg
+277,synpic34082,what is abnormal in the ct scan?,round atelectasis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic34082.jpg
+278,synpic19684,what is abnormal in the ct scan?,pulmonary sequestration,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic19684.jpg
+279,synpic22908,what is most alarming about this mri?,achilles tendon rupture,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic22908.jpg
+280,synpic20415,what abnormality is seen in the image?,lung adenocarcinoma and cns metastasis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic20415.jpg
+281,synpic47316,what abnormality is seen in the image?,partial anomalous pulmonary venous return,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic47316.jpg
+282,synpic26974,what is the primary abnormality in this image?,orchitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic26974.jpg
+283,synpic53331,what is most alarming about this mri?,hodgkin's lymphoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic53331.jpg
+284,synpic55426,what is most alarming about this mri?,osteoid osteoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic55426.jpg
+285,synpic42260,what is abnormal in the ct scan?,acute appendicitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic42260.jpg
+286,synpic27161,what abnormality is seen in the image?,acute calculous cholecystitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic27161.jpg
+287,synpic30889,what abnormality is seen in the image?,varicocele,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic30889.jpg
+288,synpic28582,what abnormality is seen in the image?,transitional cell carcinoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic28582.jpg
+289,synpic42136,what is most alarming about this x-ray?,hereditary multiple exostoses,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic42136.jpg
+290,synpic26938,what is abnormal in the mammograph?,invasive lobular carcinoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic26938.jpg
+291,synpic23540,what is the primary abnormality in this image?,parathyroid adenoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic23540.jpg
+292,synpic48911,what is abnormal in the ct scan?,epidural spinal hematoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic48911.jpg
+293,synpic35951,what abnormality is seen in the image?,schwannoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic35951.jpg
+294,synpic31626,what is the primary abnormality in this image?,adenomyomatosis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic31626.jpg
+295,synpic56635,what is abnormal in the mri?,epidural spinal hematoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic56635.jpg
+296,synpic25123,what is the primary abnormality in this image?,liver hemangioma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic25123.jpg
+297,synpic32844,what is most alarming about this ultrasound?,testicular microlithiasis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic32844.jpg
+298,synpic17479,what is abnormal in the x-ray?,aberrant right subclavian artery (arsa),/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic17479.jpg
+299,synpic22026,what is the primary abnormality in this image?,pancreatic adenocarcinoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic22026.jpg
+300,synpic54187,what is most alarming about this ct scan?,congenital cystic adenomatoid malformation,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic54187.jpg
+301,synpic30980,what abnormality is seen in the image?,"classical hodgkins lymphoma, nodular sclerosis subtype",/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic30980.jpg
+302,synpic44792,what is most alarming about this ct scan?,horseshoe kidney,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic44792.jpg
+303,synpic50372,what abnormality is seen in the image?,amyloidosis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic50372.jpg
+304,synpic46662,what is abnormal in the ultrasound?,ectopic pregnancy,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic46662.jpg
+305,synpic32330,what abnormality is seen in the image?,occult stress fracture,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic32330.jpg
+306,synpic59635,what is the primary abnormality in this image?,mature cystic teratoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic59635.jpg
+307,synpic13276,what abnormality is seen in the image?,necrotizing fasciitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic13276.jpg
+308,synpic39627,what is abnormal in the mri?,osteochondritis dissecans,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic39627.jpg
+309,synpic31680,what is the primary abnormality in this image?,liver hemangioma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic31680.jpg
+310,synpic20154,what is most alarming about this ct scan?,intralobar pulmonary sequestration,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic20154.jpg
+311,synpic51408,what is abnormal in the gastrointestinal image?,spontaneous pneumomediastinum,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic51408.jpg
+312,synpic31919,what is abnormal in the ultrasound?,medullary nephrocalcinosis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic31919.jpg
+313,synpic29163,what abnormality is seen in the image?,osteomyelitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic29163.jpg
+314,synpic26937,what abnormality is seen in the image?,invasive lobular carcinoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic26937.jpg
+315,synpic11150,what is the primary abnormality in this image?,sickle cell anemia,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic11150.jpg
+316,synpic23949,what is abnormal in the x-ray?,chondrocalcinosis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic23949.jpg
+317,synpic57722,what is the primary abnormality in this image?,"intramedullary (intradural-intramedullary), spinal lesions",/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic57722.jpg
+318,synpic23778,what abnormality is seen in the image?,hydronephrosis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic23778.jpg
+319,synpic39514,what is the primary abnormality in this image?,partial anomalous pulmonary venous return,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic39514.jpg
+320,synpic41750,what is abnormal in the angiogram?,spinal dural arteriovenous fistula,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic41750.jpg
+321,synpic16100,what is the primary abnormality in this image?,parathyroid adenoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic16100.jpg
+322,synpic54050,what is most alarming about this mri?,leptomeningeal sarcoid,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic54050.jpg
+323,synpic16099,what is the primary abnormality in this image?,parathyroid adenoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic16099.jpg
+324,synpic26979,what is the primary abnormality in this image?,invasive lobular carcinoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic26979.jpg
+325,synpic21322,what is abnormal in the mri?,"spine, epidural abscess",/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic21322.jpg
+326,synpic25422,what is the primary abnormality in this image?,tibial plateau fracture,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic25422.jpg
+327,synpic46830,what abnormality is seen in the image?,empyema,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic46830.jpg
+328,synpic50767,what is most alarming about this mri?,"spine, epidural abscess",/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic50767.jpg
+329,synpic31818,what is the primary abnormality in this image?,portal vein thrombosis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic31818.jpg
+330,synpic47714,what is abnormal in the ct scan?,pulmonary arteriovenous malformation (pavm),/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic47714.jpg
+331,synpic54303,what is the primary abnormality in this image?,schwannoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic54303.jpg
+332,synpic36687,what abnormality is seen in the image?,inguinal hernia involving bladder,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic36687.jpg
+333,synpic21262,what is most alarming about this ct scan?,intralobar pulmonary sequestration,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic21262.jpg
+334,synpic30864,what is abnormal in the ct scan?,paget disease of bone,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic30864.jpg
+335,synpic46737,what is the primary abnormality in this image?,pulmonary embolism,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic46737.jpg
+336,synpic16019,what abnormality is seen in the image?,infiltrating ductal carcinoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic16019.jpg
+337,synpic37429,what is most alarming about this ct scan?,diverticulitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic37429.jpg
+338,synpic28278,what is abnormal in the ct scan?,horseshoe kidney,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic28278.jpg
+339,synpic55763,what is the primary abnormality in this image?,enlarged subarachnoid space,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic55763.jpg
+340,synpic29233,what is most alarming about this ct scan?,ovarian torsion,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic29233.jpg
+341,synpic38737,what is the primary abnormality in this image?,medullary nephrocalcinosis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic38737.jpg
+342,synpic40033,what is abnormal in the gastrointestinal image?,incarcerated diaphragmatic hernia presenting as colonic obstruction.,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic40033.jpg
+343,synpic19469,what is the primary abnormality in this image?,paraesophageal hernia,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic19469.jpg
+344,synpic16882,what is abnormal in the mri?,enchondroma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic16882.jpg
+345,synpic2921,what is the primary abnormality in this image?,osteosarcoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic2921.jpg
+346,synpic27711,what is abnormal in the ultrasound?,endometrioma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic27711.jpg
+347,synpic44908,what is abnormal in the angiogram?,renal arteriovenous malformation,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic44908.jpg
+348,synpic23362,what is the primary abnormality in this image?,pheochromocytoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic23362.jpg
+349,synpic50364,what abnormality is seen in the image?,amyloidosis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic50364.jpg
+350,synpic37979,what is abnormal in the mri?,adenomyosis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic37979.jpg
+351,synpic58350,what is abnormal in the mri?,spondylodiskitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic58350.jpg
+352,synpic53125,what abnormality is seen in the image?,mixed germ cell testicular tumor,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic53125.jpg
+353,synpic27908,what is the primary abnormality in this image?,acute appendicitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic27908.jpg
+354,synpic32203,what is most alarming about this ct scan?,pseudomembranous colitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic32203.jpg
+355,synpic54128,what is most alarming about this ct scan?,cecal volvulus,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic54128.jpg
+356,synpic19520,what abnormality is seen in the image?,"liposarcoma, myxoid liposarcoma",/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic19520.jpg
+357,synpic31387,what is the primary abnormality in this image?,acute mesenteric ischemia,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic31387.jpg
+358,synpic28272,what is most alarming about this ct scan?,horseshoe kidney,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic28272.jpg
+359,synpic16578,what is abnormal in the gastrointestinal image?,intussusception,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic16578.jpg
+360,synpic26435,what is the primary abnormality in this image?,pulmonary embolus and external iliac vein thrombosis diagnosed by spiral ct,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic26435.jpg
+361,synpic27590,what is abnormal in the ct scan?,lymphangitic carcinomatosis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic27590.jpg
+362,synpic31476,what is the primary abnormality in this image?,abdominal aortic aneurysm,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic31476.jpg
+363,synpic22461,what is the primary abnormality in this image?,transitional cell carcinoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic22461.jpg
+364,synpic34275,what is most alarming about this ct scan?,ewing sarcoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic34275.jpg
+365,synpic17693,what abnormality is seen in the image?,sarcoidosis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic17693.jpg
+366,synpic18538,what is most alarming about this ct scan?,portal vein thrombosis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic18538.jpg
+367,synpic44893,what is the primary abnormality in this image?,renal arteriovenous malformation,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic44893.jpg
+368,synpic17959,what is most alarming about this mri?,aneurysmal bone cyst,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic17959.jpg
+369,synpic1106,what is most alarming about this angiogram?,subclavian steal syndrome,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic1106.jpg
+370,synpic31516,what is the primary abnormality in this image?,iatrogenic pneumoperitoneum,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic31516.jpg
+371,synpic43697,what is abnormal in the ct scan?,angiomyolipoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic43697.jpg
+372,synpic27042,what is most alarming about this ct scan?,renal arteriovenous malformation,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic27042.jpg
+373,synpic40561,what abnormality is seen in the image?,ganglioneuroma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic40561.jpg
+374,synpic51207,what abnormality is seen in the image?,odontoid fracture,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic51207.jpg
+375,synpic45124,what is the primary abnormality in this image?,ruptured appendicitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic45124.jpg
+376,synpic17853,what is most alarming about this ultrasound?,seminoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic17853.jpg
+377,synpic31248,what is most alarming about this x-ray?,round atelectasis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic31248.jpg
+378,synpic33565,what is most alarming about this pet scan?,granular cell tumor,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic33565.jpg
+379,synpic32849,what is abnormal in the gastrointestinal image?,hiatal hernia,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic32849.jpg
+380,synpic52334,what is abnormal in the mri?,mature cystic teratoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic52334.jpg
+381,synpic32340,what is most alarming about this mri?,meniscal tear,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic32340.jpg
+382,synpic14407,what is abnormal in the ct scan?,pancoast tumor,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic14407.jpg
+383,synpic33907,what is the primary abnormality in this image?,diverticulitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic33907.jpg
+384,synpic31373,what abnormality is seen in the image?,osteomyelitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic31373.jpg
+385,synpic19501,what abnormality is seen in the image?,endometrial polyp,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic19501.jpg
+386,synpic43661,what is most alarming about this mri?,renal cell carcinoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic43661.jpg
+387,synpic21700,what is abnormal in the ct scan?,pancreatic adenocarcinoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic21700.jpg
+388,synpic58805,what abnormality is seen in the image?,"spine, spinal stenosis",/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic58805.jpg
+389,synpic27830,what is the primary abnormality in this image?,necrotizing fasciitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic27830.jpg
+390,synpic32872,what is most alarming about this ct scan?,aortic dissection,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic32872.jpg
+391,synpic19342,what abnormality is seen in the image?,acute mesenteric ischemia,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic19342.jpg
+392,synpic51783,what is the primary abnormality in this image?,cholelithiasis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic51783.jpg
+393,synpic53072,what abnormality is seen in the image?,chiari i with cervical spine syrinx.,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic53072.jpg
+394,synpic100589,what abnormality is seen in the image?,motor vehicle accidents and instrument failure,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic100589.jpg
+395,synpic19098,what abnormality is seen in the image?,double aortic arch,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic19098.jpg
+396,synpic55103,what is abnormal in the ct scan?,multiple osteochondromatosis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic55103.jpg
+397,synpic49467,what abnormality is seen in the image?,left aortic arch with aberrant right subclavian artery,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic49467.jpg
+398,synpic46181,what is abnormal in the ct scan?,traumatic aortic injury,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic46181.jpg
+399,synpic46596,what is the primary abnormality in this image?,achalasia,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic46596.jpg
+400,synpic28644,what abnormality is seen in the image?,appendicitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic28644.jpg
+401,synpic3357,what is the primary abnormality in this image?,pneumothorax,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic3357.jpg
+402,synpic40458,what is the primary abnormality in this image?,varicocele,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic40458.jpg
+403,synpic60069,what is the primary abnormality in this image?,osteoid osteoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic60069.jpg
+404,synpic51498,what abnormality is seen in the image?,foregut cyst,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic51498.jpg
+405,synpic29502,what is most alarming about this ultrasound?,appendicitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic29502.jpg
+406,synpic24237,what is the primary abnormality in this image?,ectopic pregnancy,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic24237.jpg
+407,synpic22855,what is the primary abnormality in this image?,acute appendicitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic22855.jpg
+408,synpic15786,what is abnormal in the ct scan?,adpkd -autosomal dominant polycystic kidney disease,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic15786.jpg
+409,synpic15689,what is most alarming about this mri?,multiple hereditary exostosis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic15689.jpg
+410,synpic59708,what abnormality is seen in the image?,lymphangioma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic59708.jpg
+411,synpic51680,what abnormality is seen in the image?,sickle cell disease,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic51680.jpg
+412,synpic20043,what is the primary abnormality in this image?,fat necrosis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic20043.jpg
+413,synpic17779,what is most alarming about this gastrointestinal image?,intussusception,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic17779.jpg
+414,synpic50368,what abnormality is seen in the image?,amyloidosis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic50368.jpg
+415,synpic40443,what is most alarming about this ct scan?,bronchogenic carcinoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic40443.jpg
+416,synpic37022,what is abnormal in the ct scan?,ulcerative colitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic37022.jpg
+417,synpic28376,what abnormality is seen in the image?,ruptured appendicitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic28376.jpg
+418,synpic60341,what is abnormal in the ct scan?,"wilms tumor, stage iv",/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic60341.jpg
+419,synpic38715,what is the primary abnormality in this image?,acute pediatric osteomyelitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic38715.jpg
+420,synpic25562,what abnormality is seen in the image?,angiomyolipoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic25562.jpg
+421,synpic39789,what is the primary abnormality in this image?,"biliary leak, status post laparoscopic cholecystectomy",/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic39789.jpg
+422,synpic25099,what is abnormal in the mri?,"neurofibromatosis-1, nf1, nf-1",/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic25099.jpg
+423,synpic16133,what is the primary abnormality in this image?,fat necrosis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic16133.jpg
+424,synpic38412,what abnormality is seen in the image?,neuroblastoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic38412.jpg
+425,synpic23253,what is the primary abnormality in this image?,radial head fracture,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic23253.jpg
+426,synpic28144,what is abnormal in the ct scan?,nephrolithiasis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic28144.jpg
+427,synpic35320,what abnormality is seen in the image?,azygous lobe,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic35320.jpg
+428,synpic22799,what abnormality is seen in the image?,hiatal hernia,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic22799.jpg
+429,synpic27450,what is abnormal in the ct scan?,pulmonary arteriovenous malformation,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic27450.jpg
+430,synpic100472,what is abnormal in the ct scan?,right c6 radiculopathy and ankylosing spondylitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic100472.jpg
+431,synpic16906,what is abnormal in the ct scan?,horseshoe kidney,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic16906.jpg
+432,synpic56607,what is most alarming about this ct scan?,c-spine fracture,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic56607.jpg
+433,synpic18621,what is most alarming about this ultrasound?,hepatoblastoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic18621.jpg
+434,synpic21701,what is abnormal in the ct scan?,pancreatic adenocarcinoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic21701.jpg
+435,synpic31262,what is abnormal in the ct scan?,non-small cell lung cancer,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic31262.jpg
+436,synpic20794,what is abnormal in the ultrasound?,hypertrophic pyloric stenosis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic20794.jpg
+437,synpic19435,what is abnormal in the ct scan?,pulmonary embolism,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic19435.jpg
+438,synpic23318,what is most alarming about this ct scan?,sarcoidosis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic23318.jpg
+439,synpic49118,what is abnormal in the mri?,neuroblastoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic49118.jpg
+440,synpic17995,what is the primary abnormality in this image?,abdominal aortic aneurysm,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic17995.jpg
+441,synpic17162,what abnormality is seen in the image?,"hemangioma, soft-tissue",/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic17162.jpg
+442,synpic24244,what is the primary abnormality in this image?,transverse myelitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic24244.jpg
+443,synpic16928,what is most alarming about this mri?,aortic dissection,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic16928.jpg
+444,synpic32223,what is the primary abnormality in this image?,pulmonary arteriovenous malformation,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic32223.jpg
+445,synpic40025,what is abnormal in the x-ray?,incarcerated diaphragmatic hernia presenting as colonic obstruction.,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic40025.jpg
+446,synpic21710,what abnormality is seen in the image?,ovarian torsion,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic21710.jpg
+447,synpic29827,what is the primary abnormality in this image?,ectopic pregnancy,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic29827.jpg
+448,synpic35840,what abnormality is seen in the image?,bicornuate uterus,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic35840.jpg
+449,synpic41420,what is most alarming about this mri?,diastematomyelia,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic41420.jpg
+450,synpic37736,what is most alarming about this mri?,granular cell tumor,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic37736.jpg
+451,synpic51165,what abnormality is seen in the image?,angiomyolipoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic51165.jpg
+452,synpic50042,what is abnormal in the mri?,epidural spinal hematoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic50042.jpg
+453,synpic40293,what is most alarming about this ct scan?,liver hemangioma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic40293.jpg
+454,synpic35912,what is the primary abnormality in this image?,fibrous dysplasia,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic35912.jpg
+455,synpic22073,what is the primary abnormality in this image?,leiomyosarcoma of the inferior vena cava,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic22073.jpg
+456,synpic33925,what is the primary abnormality in this image?,horseshoe kidney,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic33925.jpg
+457,synpic58646,what is most alarming about this ct scan?,lumbar herniated disc,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic58646.jpg
+458,synpic52607,what is the primary abnormality in this image?,ankylosing spondylitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic52607.jpg
+459,synpic30936,what is abnormal in the ultrasound?,adenomyomatosis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic30936.jpg
+460,synpic17561,what is abnormal in the x-ray?,avascular necrosis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic17561.jpg
+461,synpic26479,what abnormality is seen in the image?,left aortic arch with aberrant right subclavian artery,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic26479.jpg
+462,synpic48004,what abnormality is seen in the image?,adenocarcinoma of the lung,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic48004.jpg
+463,synpic47412,what is abnormal in the ct scan?,lipomatous hypertrophy of the interatrial septum,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic47412.jpg
+464,synpic49076,what is the primary abnormality in this image?,metastatic disease from colonic carcinoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic49076.jpg
+465,synpic32602,what is most alarming about this ct scan?,duplicated renal collecting system,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic32602.jpg
+466,synpic18632,what is most alarming about this ct scan?,hepatoblastoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic18632.jpg
+467,synpic34317,what is the primary abnormality in this image?,adenocarcinoma of the lung,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic34317.jpg
+468,synpic27692,what is abnormal in the ct scan?,necrotizing fasciitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic27692.jpg
+469,synpic52977,what is the primary abnormality in this image?,osteoid osteoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic52977.jpg
+470,synpic49245,what is the primary abnormality in this image?,"pleomorphic  xanthoastrocytoma, pxa",/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic49245.jpg
+471,synpic44359,what is most alarming about this mri?,neuroblastoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic44359.jpg
+472,synpic28972,what is the primary abnormality in this image?,diverticulitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic28972.jpg
+473,synpic40460,what is most alarming about this ultrasound?,varicocele,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic40460.jpg
+474,synpic54567,what is the primary abnormality in this image?,enchondroma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic54567.jpg
+475,synpic27008,what is most alarming about this mri?,carotid artery dissection,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic27008.jpg
+476,synpic29202,what abnormality is seen in the image?,intralobar pulmonary sequestration,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic29202.jpg
+477,synpic31450,what abnormality is seen in the image?,adenomyosis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic31450.jpg
+478,synpic27416,what is abnormal in the ct scan?,deep venous thrombosis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic27416.jpg
+479,synpic24055,what is the primary abnormality in this image?,pulmonary sequestration,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic24055.jpg
+480,synpic28851,what is the primary abnormality in this image?,partial anomalous pulmonary venous return,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic28851.jpg
+481,synpic16495,what is most alarming about this ct scan?,"biliary leak, status post laparoscopic cholecystectomy",/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic16495.jpg
+482,synpic16876,what abnormality is seen in the image?,takayasu arteritis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic16876.jpg
+483,synpic51480,what abnormality is seen in the image?,osteopoikilosis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic51480.jpg
+484,synpic22006,what is most alarming about this ct scan?,renal cell carcinoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic22006.jpg
+485,synpic27043,what abnormality is seen in the image?,renal arteriovenous malformation,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic27043.jpg
+486,synpic36238,what is most alarming about this ct scan?,double aortic arch,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic36238.jpg
+487,synpic29137,what is abnormal in the ct scan?,adenocarcinoma of the gastroesophageal junction,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic29137.jpg
+488,synpic40027,what is the primary abnormality in this image?,incarcerated diaphragmatic hernia presenting as colonic obstruction.,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic40027.jpg
+489,synpic48145,what is abnormal in the ct scan?,portal venous thrombosis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic48145.jpg
+490,synpic33581,what is abnormal in the x-ray?,osteochondroma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic33581.jpg
+491,synpic28159,what abnormality is seen in the image?,rheumatoid arthritis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic28159.jpg
+492,synpic21269,what is abnormal in the x-ray?,lateral femoral notch sign,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic21269.jpg
+493,synpic24065,what is the primary abnormality in this image?,osteochondritis dissecans,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic24065.jpg
+494,synpic22282,what is abnormal in the mri?,adenomyosis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic22282.jpg
+495,synpic16279,what is the primary abnormality in this image?,myelolipoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic16279.jpg
+496,synpic15867,what is the primary abnormality in this image?,enchondroma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic15867.jpg
+497,synpic21107,what abnormality is seen in the image?,infiltrating ductal carcinoma,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic21107.jpg
+498,synpic29722,what is the primary abnormality in this image?,horseshoe kidney,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic29722.jpg
+499,synpic45113,what is abnormal in the ct scan?,ruptured appendicitis,/home/anurag/Med_VQA/data/raw/ImageCLEF/val_2021/ImageCLEF-2021-VQA-Med-New-Validation-Images/synpic45113.jpg
