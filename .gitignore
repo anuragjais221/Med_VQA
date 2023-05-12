@@ -130,3 +130,6 @@ dmypy.json
 
 # tar 
 *.tar
+
+#
+train_dataset_pickle/mixed-and-original-train-image-feature-19-subset2021.pickle
