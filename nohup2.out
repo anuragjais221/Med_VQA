@@ -1,0 +1,4 @@
+[nltk_data] Downloading package punkt to /home/anurag/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+/home/anurag/anaconda3/envs/med_vqa/lib/python3.11/site-packages/transformers/tokenization_utils_base.py:2354: FutureWarning: The `pad_to_max_length` argument is deprecated and will be removed in a future version, use `padding=True` or `padding='longest'` to pad to the longest sequence in the batch, or use `padding='max_length'` to pad to a max length. In this case, you can give a specific length with `max_length` (e.g. `max_length=45`) or leave max_length to None to pad to the maximal input size of the model (e.g. 512 for Bert).
+  warnings.warn(
