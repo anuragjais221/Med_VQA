@@ -72,11 +72,11 @@ Given a new image V and corresponding questions $Q_x$ and $Q_y$, a VQA model (M)
 $V_{mix} = {\lambda}V_x + (1-\lambda)V_y$  
 $A_{mix} = {\lambda}A_x + (1-\lambda)A_y$  
 
-Predictions:  { $P_x = M(V_x,A_x) , P_y = M(V_y,A_y) $ }
+Predictions:  { $P_x = M(V_x,A_x) , P_y = M(V_y,A_y)$ }
 
-MixupLoss:  { $ Loss_{mix} = \lambda\mathcal{L}(P_x,A_x)+(1-\lambda)\mathcal{L}(P_y,A_y) $}
+MixupLoss:  { $Loss_{mix} = \lambda\mathcal{L}(P_x,A_x)+(1-\lambda)\mathcal{L}(P_y,A_y)$}
 
-Top1 Accuracy: { $ top1Acc_{mix} = \lambda Correct(P_x,A_x) + (1-\lambda)Correct(P_y,A_y) $}
+Top1 Accuracy: { $top1Acc_{mix} = \lambda Correct(P_x,A_x) + (1-\lambda)Correct(P_y,A_y)$}
 
 Top5 Accuracy: { $top5Acc_{mix} = \lambda Correct(P_x,A_x) + (1-\lambda) Correct(P_y,A_y)$}
 
