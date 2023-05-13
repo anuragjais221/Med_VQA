@@ -31,12 +31,11 @@ We also used Contrastive Loss as an additional loss along with crossEntropy Loss
   <ol>
     <li><a href="#File-Description">File Description</a></li>
     <li><a href="#Dataset Description">Datasets</a></li>
+    <li><a href="#Mixed Image Examples">Mixed Image Examples</a></li>
     <li><a href="#Steps-to-Reproduce Results">Steps to Reproduce Results</a></li>
     <li><a href="#Training-and-Validation">Training and Validation</a></li>
-    <li><a href="#Test-Flow">Test Flow</a></li>
-    <li><a href="#Comparison-Between-Multi-Modality-and-Baseline-Single-Modality">Comparison Between Multi-Modality and Baseline Single Modality</a></li>
-    <li><a href="#Comaprison-With-Previous-PPMI-Experiment">Comaprison With Previous PPMI Experiment</a></li>
-    <li><a href="#Comaprison-With-Previous-Gait-Experiment">Comaprison With Previous Gait Experimen</a></li>
+    <li><a href="#Experimental Result">Experimental Results</a></li>
+    <li><a href="#Comparison between MFB with Co-attention base architecture & VisualBERT base model with Mixup">Comparison between MFB with Co-attention base architecture & VisualBERT base model with Mixup</a></li>
     <li><a href="#acknowledgement">Acknowledgement</a></li>
   </ol>
 </details>
@@ -54,16 +53,42 @@ The content of each folder of this repository is described as follows.
 - [x] **extract_featues.ipynb** This notebook is used to extract features from images and save it in pickle format. 
 - [x] **mixup.ipynb** This notebook will generate the mixed data and also prepare original_mixed data.
 - [x] **mfb_trainexp.py** This script is used for train the model and also test on test data.
+- [x] **Med_VQA** This folder contains other exeriments related to MFB with co-attention on original,mixed and original_mixed dataset.
 
 ## Datasets
 
 we used ImageCLEF 2019 dataset and subset of 2020 dataset. The dataset should reside in data folder.
 
+## Mixed Image Examples
+
+<p align="center">
+<img src="imgs/mixed_example.png" width=100% height=80% 
+class="center">
+</p>
+
+## Metric for Mixup
+Given a new image V and corresponding questions $Q_x$ and $Q_y$, a VQA model (M) generates predictions $P_x$ and $P_y$ for $Q_x$ and $Q_y$, respectively. The number of classes is large. We evaluate top1 and top5 accuracy. We also mixed the predictions based on mixing parameter $(\lambda)$ for top1,top5 accuracy, and bleu score. 
+
+$V_{mix} = {\lambda}V_x + (1-\lambda)V_y$  
+$A_{mix} = {\lambda}A_x + (1-\lambda)A_y$  
+
+Predictions:  { $P_x = M(V_x,A_x) , P_y = M(V_y,A_y) $ }
+
+MixupLoss:  { $ Loss_{mix} = \lambda\mathcal{L}(P_x,A_x)+(1-\lambda)\mathcal{L}(P_y,A_y) $}
+
+Top1 Accuracy: { $ top1Acc_{mix} = \lambda Correct(P_x,A_x) + (1-\lambda)Correct(P_y,A_y) $}
+
+Top5 Accuracy: { $top5Acc_{mix} = \lambda Correct(P_x,A_x) + (1-\lambda) Correct(P_y,A_y)$}
+
+Bleu Score: { $bleu_{mix} = \lambda bleu(P_x,A_x) + (1-\lambda) bleu(P_y,A_y) $}
+    
+
+
 ## Steps to Reprodue the Results
 
 To reproduce the results please follow the steps vlbelow.
 
-- Download the `ImageCLEF datasest` from the sites if not present in data folder.
+- Download the `ImageCLEF datasest` from the ImageCLEF site if not present in data folder.
 - Run `preprocess_data.ipynb` to preprocess data and save the data in pickle format save in train_dataset_pickle folder.
 - Run `mixup.ipynb` to generate mixed images and save them in train_dataset_pickle format.
 - Run `extract_features.ipynb` to extract features from images and save them in secondory memory which later use in training to make it faster.
@@ -90,8 +115,7 @@ class="center">
 ## Experimental Result
 
 
-
-So, if we consider our previous experiment on individual dataset using individual model it is evident that, proposed architecture has able to improve the accuracy along with Cohen Kappa score and ROC AUC value using those multi-modal features. The same scenario is described in the below comparison chart.
+Experiments are conducuted on both MFB with co-attention base architecture and visualBERT base architecture on original,mixed and original+mixed dataset.
 
 <p align="center">
 <img src="imgs/mfb_co-attention_result.png" width=100% height=80% 
