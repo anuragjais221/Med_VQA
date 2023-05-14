@@ -52,7 +52,8 @@ The content of each folder of this repository is described as follows.
 - [x] **imgs** This folder contains all the images such as architecture image, loss and accuracy images for each experiments.
 - [x] **extract_featues.ipynb** This notebook is used to extract features from images and save it in pickle format. 
 - [x] **mixup.ipynb** This notebook will generate the mixed data and also prepare original_mixed data.
-- [x] **mfb_trainexp.py** This script is used for train the model and also test on test data.
+- [x] **mixed_exp.py** This script is used for train the model and also test on test data. To save output in file use `nohup python mixed_exp.py &` command.
+- [x] **mfb_trainexp.py** This script is used for train the model and also test on test data. To save output in file use `nohup python mfb_trainexp.py &` command.
 - [x] **Med_VQA** This folder contains other exeriments related to MFB with co-attention on original,mixed and original_mixed dataset.
 
 ## Datasets
