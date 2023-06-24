@@ -10,8 +10,8 @@
 
 
 <div align="center">
-<!-- <h1>Predictive_Analysis_of_Parkinsons_Disease_from_Gait_Sensor_Data_and_Brain_MRI_Images: Predictive Analysis of Parkinsons Disease from Gait Sensor Data and Brain MRI Images</h1> -->
-<h2><a href="MTP Report.pdf">Deep Learning based Approaches for Medical Visual Question Answering using Transformer and Mixup</a></h2>
+
+<h2><a href="MTP Report.pdf">Deep Learning-based Approaches for Medical Visual Question Answering using Transformer and Mixup</a></h2>
     
 [Anurag Jaiswal](https://github.com/arunava5764)<sup></sup>,        [Dr. Deepti R. Bathula](https://www.iitrpr.ac.in/deepti-r-bathula)<sup></sup>
     
@@ -23,8 +23,8 @@
 class="center">
 </p>
 
-We implement the visualBERT architecture with a data augmentation technique on ImageCLEF 2019 dataset and subset of 2020. We also implement the MFB with co-attention based architecture along with mixup technique as a baseline to compare with visualBERT based Model. Both models are trained on original dataset, mixed dataset and original+mixed dataset. 
-We also used Contrastive Loss as an additional loss along with crossEntropy Loss which improves the test accuracy for VisualBERT based Model. The basic aim of Med_VQA is provide help to medical doctors and practioners to take decision related to medical images such as MRI,Xray-scans which can benefit society.
+We implement the visualBERT architecture with a data augmentation technique on the ImageCLEF 2019 dataset and a subset of 2020. We also implement the MFB with co-attention-based architecture along with a mixup technique as a baseline to compare with the visualBERT-based Model. Both models are trained on the original dataset, mixed dataset, and original+mixed dataset. 
+We also used Contrastive Loss as an additional loss along with cross-entropy Loss which improves the test accuracy for the VisualBERT-based Model. The basic aim of Med_VQA is to provide help to medical doctors and practitioners to take decisions related to medical images such as MRI, Xray-scans which can benefit society.
 
 <details>
   <summary>Table of Contents</summary>
